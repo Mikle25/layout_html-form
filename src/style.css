@@ -2,10 +2,10 @@ fieldset {
   margin-bottom: 20px;
 }
 
-div {
+.vert-between {
   margin-bottom: 10px;
 }
 
-div:last-child {
+.vert-between:last-child {
   margin-bottom: 0;
 }
